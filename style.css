@@ -1,0 +1,25 @@
+.content{
+    background-color: aquamarine;
+}
+div{
+    width: 100px;
+    height: 100px;
+}
+#frist{
+    background-color: darkorange;
+}
+#second{
+    background-color: darkorchid;
+    position: relative;
+    left: 100px;
+    
+}
+#second h1{
+    padding:20px;
+   color:white;
+   background-color: black;
+}
+#third{
+    background-color: lime;
+}
+
